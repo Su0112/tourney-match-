@@ -1,5 +1,3 @@
-// PlayerList.js
-
 import React from "react"; //optional
 import Player from "./Player";
 
